@@ -2,8 +2,8 @@
 
 export default function Page() {
   return (
-    <Pagina>
+    <div>
       <div>Exemplo básico de uma página</div>
-    </Pagina>
+    </div>
   )
 }
